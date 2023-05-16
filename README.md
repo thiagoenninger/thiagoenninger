@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thiago Enninger👋
 
-- 🔭 Hoje trabalho com Front-end na Alura Latam
+- 🔭 Hoje trabalho com Gestor de Projetos na Quattro Projetos
 - 🌱 Atualmente estudando React e React Native
 - 📫 E-mail de contato: thiagoenninger@gmail.com
 
